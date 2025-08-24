@@ -23,14 +23,14 @@ This project focuses on predicting customer churn and segmenting users into beha
 
 📂 **Repo Contents**
 - `DSPM_HW2_nneharik.ipynb` → Core notebook with data preprocessing, ML modeling, and clustering  
-- `results/` → Plots and metrics for churn vs non-churn groups  
+
 
 
 ---
 
 📈 **Results**
-- Logistic Regression achieved **XX% accuracy** (replace with your actual number).  
-- Identified top 3 churn risk features (e.g., low activity, high complaints, short tenure).  
+- Logistic Regression achieved **90% accuracy**  
+- Identified top 3 churn risk features (low activity, high complaints, short tenure).  
 - Segmented customers into N clusters, highlighting at-risk vs loyal segments.  
 
 ---
